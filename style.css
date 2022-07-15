@@ -1,0 +1,6 @@
+h1{
+    border: 10px solid transparent;
+    padding: 15px;
+    border-image: url('borderImage.jpg') round;
+    border-image-slice: 40%;
+}
